@@ -8,7 +8,7 @@ This project was developed by our group (4 members) as a submission to course pr
   3. Machine Simulation
   4. Micro Architecture Design
   
-[![Detailed Requirements](http://i.imgur.com/0588hs2.jpg)](https://example.com)
+[![Detailed Requirements](http://i.imgur.com/0588hs2.jpg)](https://github.com/HJain13/RoboVac/blob/master/Project%20Requirements.md)
 
 ### Tech
 
