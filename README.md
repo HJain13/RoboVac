@@ -20,7 +20,7 @@ While making RoboVac project we used a number of software/technologies.
 ### Team Members
 
 * [Himesh Jain](https://github.com/HJain13/)
-* [Riya Bagaria](https://github.com/bagariariya/)
+* [Riya Bagaria](https://github.com/riya-bagaria/)
 * [Shantanu Gautam](https://github.com/gautamshantanu/)
 * [Yash Nag](https://github.com/hsaygan/)
 
