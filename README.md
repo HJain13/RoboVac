@@ -17,6 +17,13 @@ While making RoboVac project we used a number of software/technologies.
 * Microsoft Powerpoint
 * Notepad (:D)
 
+### Team Members
+
+* [Himesh Jain](https://github.com/HJain13/)
+* [Riya Bagaria](https://github.com/bagariariya/)
+* [Shantanu Gautam](https://github.com/gautamshantanu/)
+* [Yash Nag](https://github.com/hsaygan/)
+
 ### Installation
 - Coming Soon
 
